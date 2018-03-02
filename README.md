@@ -9,4 +9,4 @@ The running Shiny application is in https://cwerneck.shinyapps.io/DDP_Week4_Assi
 
 ## The presentation
 
-The slids presentation can be seen in https://rpubs.com/cwerneck/DDP_Week4_Assignment
+The slids presentation can be seen in http://rpubs.com/cwerneck/365751
