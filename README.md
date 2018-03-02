@@ -1,6 +1,7 @@
 # Coursera Developing Data Products Course
-Week 4 assignment - Create a Shiny application and deploy a reproducuble Pitch presentation
-##The Shiny application:
+### Week 4 assignment - Create a Shiny application and deploy a reproducuble Pitch presentation  
+
+## The Shiny application:
 
 R code can be seen in https://github.com/cwerneck/DDevelopingDataProducts/app.R  
 
