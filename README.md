@@ -3,7 +3,7 @@
 
 ## The Shiny application:
 
-R code can be seen in https://github.com/cwerneck/DDevelopingDataProducts/app.R  
+R code can be seen in https://github.com/cwerneck/DevelopingDataProducts/app.R  
 
 The running Shiny application is in https://cwerneck.shinyapps.io/DDP_Week4_Assignment  
 
