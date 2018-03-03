@@ -13,7 +13,6 @@ library(ggplot2)
 # Read Data
 library(readxl)
 
-setwd("C:/Coursera/09_Developing_Data_Products/DDP_Week4_Assignment")
 DataSet <- "PIB dos Municipios - base de dados 2010-2015.xls"
 
 Brasil <- read_excel(DataSet, sheet = 1, col_names = TRUE, col_types = NULL, na = "", skip = 0)
